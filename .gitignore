@@ -56,3 +56,13 @@ build/
 ### VS Code ###
 .vscode/
 
+## Emacs and LSP files
+/eclipse.jdt.ls
+/.lsp-session-v1
+/.dap-breakpoints
+/elpa
+/cache
+.cache
+/workspace
+/request
+/recentf
